@@ -1,2 +1,7 @@
 # Conversational-Policy-Learning
 Implementation of CPL layer from Cezanne-ai framework
+This layer/pipeline is common for all types of languages/domains and is recommended to be implemented accordingly. 
+If other codes are available and are more efficient than the one implemented by us, feel free to use them if the main fundamentals presented in the CPL file are followed.
+Code implementation in progress.
+Possible commit date: 1st November 2021.
+Please check for details: project-2021 repository, CPL file and the research paper: ResE.T. in Conversational A.I (Coman et al.,2021).
