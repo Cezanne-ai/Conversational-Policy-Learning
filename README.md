@@ -9,4 +9,4 @@ If other codes are available and are more efficient than the one implemented by 
 Code implementation in progress.
 Possible commit date: 1st November 2021.
 
-Please check for details: Project-documentation repository (Cezanne-ai project file) and the research paper "Cezanne-ai: a conversational AI open-framework for multi-domains, all the languages and limited data".
+Please check for details: Project-documentation repository (Cezanne-ai project file) and the research paper "Cezanne-ai: a conversational AI framework for emerging languages and limited data".
